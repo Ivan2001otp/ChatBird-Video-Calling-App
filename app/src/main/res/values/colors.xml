@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#9D9D9D</color>
+
+    <color name="dk_blu">#0B5FB0</color>
+    <color name="lt_blu">#4892CA</color>
+
+    <color name="dk_red">#BC1508</color>
+    <color name="lt_red">#D76A6A</color>
+
+    <color name="lt_green">#6CE444</color>
+    <color name="dk_green">#13A99B</color>
+
+    <color name="md_grey">#808080</color>
+
+</resources>
